@@ -1,0 +1,24 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": "c:/Users/shara/OneDrive/Desktop/gta/geethas_1CE23IS029_parvam_cdsa/bhavana_1CE23IS018_cec_irp_nov24/bhavana_1CE23IS018_cec_irp_nov24",
+      "program": "c:/Users/shara/OneDrive/Desktop/gta/geethas_1CE23IS029_parvam_cdsa/bhavana_1CE23IS018_cec_irp_nov24/bhavana_1CE23IS018_cec_irp_nov24/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}
